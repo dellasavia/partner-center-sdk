@@ -19,7 +19,7 @@ ms.technology: partner-center-sdk
 -   Partner Center for Microsoft Cloud Germany
 -   Partner Center for Microsoft Cloud for US Government
 
-Partner Center uses Azure AD for authentication, and to use the Partner Center APIs you must configure your authentication settings correctly. This requires three steps:
+Partner Center uses Azure AD for authentication, and to use the Partner Center APIs you must configure your authentication settings correctly. This requires these three steps:
 
 -   **App or App+user?**
 
